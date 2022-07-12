@@ -15,7 +15,7 @@
     
     sl系统临时地址：sll.chinatowercom.cn   port:8080
     
-    api接口临时地址：api.chinatowercom.cn  port:80
+    api接口临时地址：api2.chinatowercom.cn  port:80
     
     weblogic阵列：120.46.180.72:7001  121.36.54.124:7001  124.70.23.48:7001
     
